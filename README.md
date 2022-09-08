@@ -8,6 +8,7 @@
 ![React Native](https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logo=React&logoColor=47C5FB)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-black?style=for-the-badge&logo=Postgresql&logoColor=blue)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![Rabbitmq](https://img.shields.io/badge/-Rabbitmq-black?style=for-the-badge&logo=Rabbitmq&logoColor=red)
 ![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=for-the-badge&logo=gitlab)
 
