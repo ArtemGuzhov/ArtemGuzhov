@@ -14,7 +14,7 @@
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/artm_gzhv)
-[![Gmail](https://img.shields.io/badge/-Gmail-black?white=for-the-badge&logo=Gmail&logoColor=FF0000)](mailto:artem.guzhovevg@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=Gmail&logoColor=FF0000)](mailto:artem.guzhovevg@gmail.com)
 
 <details>
   <summary>:zap: Statistics:</summary>
