@@ -18,7 +18,7 @@
 
 <details>
   <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ArtemGuzhov&count_private=true&show_icons=true&theme=buefy" />
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.zohan.tech/api?username=ArtemGuzhov&count_private=true&show_icons=true&theme=buefy" />
 </details>
 
 <!--
